@@ -1,4 +1,4 @@
-**CFG Introduction to Python and Apps**    
+**[CFG](https://codefirstgirls.com/) Introduction to Python and Apps**    
     
 From 01.12.2022 To 02.02.2023    
       
